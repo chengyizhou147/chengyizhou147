@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi Welcome！！！ 👋
 
+# 🤔ID: CyzCc
+# 🌱CUIT大二信安在读
+# ⚡方向: web安全/渗透测试
+# 👯菜，求带~~👯👯👯
 <!--
 **chengyizhou147/chengyizhou147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
